@@ -1,6 +1,6 @@
-👋 Hi, I’m @Kriksy.  ✨ special ✨ <hr>
-👀 I’m interested in 😸 <hr>
-🌱 I’m currently learning Web Development. (fullstack open source ✌🏻)
-📫 How to reach me ...
+👋 Hi, I’m @Kriksy. <br>
+👀 I’m interested in 😸 <br>
+🌱 I’m currently learning full-stack Web Development. ✌🏻 <br>
+
 
 
